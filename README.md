@@ -1,1 +1,5 @@
-# stats202B
+# UOA STATS220
+
+## Rscript
+
+## Rmarkdown
